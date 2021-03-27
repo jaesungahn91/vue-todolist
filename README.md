@@ -10,8 +10,10 @@ vue 공부를 위한 간단한 todolist 만들기
 ## 프로젝트 스펙
 - Spring Boot
 - Spring Data Jpa
+- Vue.js
+- webpack
 ## 기능
----
+- 간단한 To Do List page
 ## 참고
 - 
 
