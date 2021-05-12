@@ -1,10 +1,10 @@
+![spring](https://img.shields.io/badge/Spring%20boot-2.1.5.RELEASE-green)
+![java](https://img.shields.io/badge/Java-8-blue)
+![vue](https://img.shields.io/badge/node-10.16.3-brown)  
 # vue-todolist
 - vue 공부를 위한 간단한 todolist 만들기
 
 ### :white_check_mark: 사용 기술 및 개발 환경
-![spring](https://img.shields.io/badge/Spring%20boot-2.1.5.RELEASE-green)
-![java](https://img.shields.io/badge/Java-8-blue)
-![vue](https://img.shields.io/badge/node-10.16.3-brown)  
 Spring boot, Spring Data Jpa, Vue.js, Webpack
 
 
