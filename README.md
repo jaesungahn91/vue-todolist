@@ -10,7 +10,7 @@ Spring boot, Spring Data Jpa, Vue.js, Webpack
 
 ### :white_check_mark: UI
 <img src="https://user-images.githubusercontent.com/49400801/110907180-5c0e5e80-8350-11eb-93e4-49d7376153ce.png"  width="300" height="200">  
-
+![security](https://user-images.githubusercontent.com/49400801/117926717-25df6200-b334-11eb-848f-f53e299c77d4.png){:.border width='600px'}
 
 ### :white_check_mark: 기능 목록
 - [x] 카테고리 분류
